@@ -46,11 +46,14 @@
 </p>
 
 <p align="center">
-  <samp>Follow me on social networks</samp>
+  <samp>Follow me on:</samp>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasstoller/">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
+  </a>
+  <a href="https://www.theright.dev">
+    <img align="center" src="https://www.freeiconspng.com/thumbs/blogger-logo-icon-png/blogger-logo-icon-png-10.png" alt="rishav-chanda-b89a791b3" height="30" width="40" />
   </a>
 </p>
 <p align="center">
