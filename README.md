@@ -9,7 +9,7 @@
   <br><br>
   <samp>
     I live in São Paulo - Brazil
-    <p align="center"><img src="https://media2.giphy.com/media/k1Psl92gw7YPSPYFKm/giphy.gif?cid=ecf05e47v2mid9mlzwyb6kigh24jnr55qd470gdf3mjrmpth&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50px"></p>
+    <p align="center"><img src="https://media.giphy.com/media/PSKAppO2LH56w/giphy.gif" width="50px"></p>
   </samp>
 </p>
 
